@@ -11,7 +11,7 @@ import SwiftUI
 struct CampusMateApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootTabView()
         }
     }
 }
